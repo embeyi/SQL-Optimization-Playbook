@@ -1,4 +1,4 @@
-# SQL Optimization Playbook
+# SQL Optimization Playbook 
 
 This repository is a guide for optimizing SQL queries and database performance. It includes best practices, query tuning techniques, and strategies for improving the efficiency of SQL operations.
 
