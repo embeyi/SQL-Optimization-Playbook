@@ -6,7 +6,7 @@ This repository is a guide for optimizing SQL queries and database performance. 
 
 - Query Optimization Techniques
 - Indexing Strategies
-- Execution Plan Analysis
+- Execution Plan Analysis 
 - Common Performance Pitfalls
 - Database Design Tips
 
